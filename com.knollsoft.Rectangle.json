@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "subtitle": "⌃⌥C",
+      "arg": "rectangle:\/\/execute-action?name=center",
+      "title": "Center",
+      "uid": ".center",
+      "icon": {
+        "path": "WindowPositions\/centerTemplate.imageset\/centerTemplate.png"
+      }
+    },
+    {
+      "uid": ".topHalf",
+      "icon": {
+        "path": "WindowPositions\/topHalfTemplate.imageset\/topHalfTemplate.png"
+      },
+      "arg": "rectangle:\/\/execute-action?name=top-half",
+      "title": "Top Half",
+      "subtitle": "⌃⌥↑"
+    },
+    {
+      "subtitle": "⌃⌥↓",
+      "icon": {
+        "path": "WindowPositions\/bottomHalfTemplate.imageset\/bottomHalfTemplate.png"
+      },
+      "uid": ".bottomHalf",
+      "title": "Bottom Half",
+      "arg": "rectangle:\/\/execute-action?name=bottom-half"
+    },
+    {
+      "subtitle": "⌃⌥I",
+      "arg": "rectangle:\/\/execute-action?name=top-right",
+      "title": "Top Right",
+      "uid": ".topRight",
+      "icon": {
+        "path": "WindowPositions\/topRightTemplate.imageset\/topRightTemplate.png"
+      }
+    },
+    {
+      "uid": ".topLeft",
+      "icon": {
+        "path": "WindowPositions\/topLeftTemplate.imageset\/topLeftTemplate.png"
+      },
+      "title": "Top Left",
+      "arg": "rectangle:\/\/execute-action?name=top-left",
+      "subtitle": "⌃⌥U"
+    },
+    {
+      "title": "Maximize",
+      "arg": "rectangle:\/\/execute-action?name=maximize",
+      "uid": ".maximize",
+      "icon": {
+        "path": "WindowPositions\/maximizeTemplate.imageset\/maximizeTemplate.png"
+      },
+      "subtitle": "⌃⌥↩"
+    },
+    {
+      "arg": "rectangle:\/\/execute-action?name=center-third",
+      "uid": ".centerThird",
+      "icon": {
+        "path": "WindowPositions\/centerThirdTemplate.imageset\/centerThirdTemplate.png"
+      },
+      "title": "Center Third",
+      "subtitle": "⌃⌥F"
+    },
+    {
+      "arg": "rectangle:\/\/execute-action?name=almost-maximize",
+      "subtitle": "⌃⌥⇧↩",
+      "title": "Almost Maximize",
+      "uid": ".almostMaximize",
+      "icon": {
+        "path": "WindowPositions\/almostMaximizeTemplate.imageset\/almostMaximizeTemplate.png"
+      }
+    },
+    {
+      "subtitle": "⌃⌥E",
+      "title": "First Two Thirds",
+      "arg": "rectangle:\/\/execute-action?name=first-two-thirds",
+      "uid": ".firstTwoThirds",
+      "icon": {
+        "path": "WindowPositions\/firstTwoThirdsTemplate.imageset\/firstTwoThirdsTemplate.png"
+      }
+    },
+    {
+      "subtitle": "⌃⌥⌘←",
+      "uid": ".previousDisplay",
+      "arg": "rectangle:\/\/execute-action?name=previous-display",
+      "icon": {
+        "path": "WindowPositions\/previousDisplayTemplate.imageset\/previousDisplayTemplate.png"
+      },
+      "title": "Previous Display"
+    },
+    {
+      "uid": ".maximizeHeight",
+      "subtitle": "⌃⌥⇧↑",
+      "title": "Maximize Height",
+      "arg": "rectangle:\/\/execute-action?name=maximize-height",
+      "icon": {
+        "path": "WindowPositions\/maximizeHeightTemplate.imageset\/maximizeHeightTemplate.png"
+      }
+    },
+    {
+      "icon": {
+        "path": "WindowPositions\/bottomRightTemplate.imageset\/bottomRightTemplate.png"
+      },
+      "title": "Bottom Right",
+      "subtitle": "⌃⌥K",
+      "arg": "rectangle:\/\/execute-action?name=bottom-right",
+      "uid": ".bottomRight"
+    },
+    {
+      "icon": {
+        "path": "WindowPositions\/lastTwoThirdsTemplate.imageset\/lastTwoThirdsTemplate.png"
+      },
+      "title": "Last Two Thirds",
+      "subtitle": "⌃⌥T",
+      "arg": "rectangle:\/\/execute-action?name=last-two-thirds",
+      "uid": ".lastTwoThirds"
+    },
+    {
+      "icon": {
+        "path": "WindowPositions\/leftHalfTemplate.imageset\/leftHalfTemplate.png"
+      },
+      "subtitle": "⌃⌥←",
+      "title": "Left Half",
+      "uid": ".leftHalf",
+      "arg": "rectangle:\/\/execute-action?name=left-half"
+    },
+    {
+      "subtitle": "⌃⌥⌘→",
+      "arg": "rectangle:\/\/execute-action?name=next-display",
+      "title": "Next Display",
+      "icon": {
+        "path": "WindowPositions\/nextDisplayTemplate.imageset\/nextDisplayTemplate.png"
+      },
+      "uid": ".nextDisplay"
+    },
+    {
+      "uid": ".restore",
+      "icon": {
+        "path": "WindowPositions\/restoreTemplate.imageset\/restoreTemplate.png"
+      },
+      "subtitle": "⌃⌥⌫",
+      "title": "Restore",
+      "arg": "rectangle:\/\/execute-action?name=restore"
+    },
+    {
+      "uid": ".smaller",
+      "title": "Smaller",
+      "icon": {
+        "path": "WindowPositions\/smallerTemplate.imageset\/smallerTemplate.png"
+      },
+      "arg": "rectangle:\/\/execute-action?name=smaller",
+      "subtitle": "⌃⌥-"
+    },
+    {
+      "arg": "rectangle:\/\/execute-action?name=last-third",
+      "icon": {
+        "path": "WindowPositions\/lastThirdTemplate.imageset\/lastThirdTemplate.png"
+      },
+      "subtitle": "⌃⌥G",
+      "uid": ".lastThird",
+      "title": "Last Third"
+    },
+    {
+      "arg": "rectangle:\/\/execute-action?name=bottom-left",
+      "subtitle": "⌃⌥J",
+      "uid": ".bottomLeft",
+      "icon": {
+        "path": "WindowPositions\/bottomLeftTemplate.imageset\/bottomLeftTemplate.png"
+      },
+      "title": "Bottom Left"
+    },
+    {
+      "arg": "rectangle:\/\/execute-action?name=larger",
+      "icon": {
+        "path": "WindowPositions\/largerTemplate.imageset\/largerTemplate.png"
+      },
+      "title": "Larger",
+      "uid": ".larger",
+      "subtitle": "⌃⌥="
+    },
+    {
+      "arg": "rectangle:\/\/execute-action?name=right-half",
+      "uid": ".rightHalf",
+      "icon": {
+        "path": "WindowPositions\/rightHalfTemplate.imageset\/rightHalfTemplate.png"
+      },
+      "subtitle": "⌃⌥→",
+      "title": "Right Half"
+    },
+    {
+      "icon": {
+        "path": "WindowPositions\/reflowTodoTemplate.imageset\/reflowTodoTemplate.png"
+      },
+      "subtitle": "⌃⌥N",
+      "title": "Reflow Todo",
+      "arg": "rectangle:\/\/execute-action?name=reflow-todo",
+      "uid": ".reflowTodo"
+    },
+    {
+      "subtitle": "⌃⌥B",
+      "title": "Toggle Todo",
+      "arg": "rectangle:\/\/execute-action?name=toggle-todo",
+      "icon": {
+        "path": "WindowPositions\/toggleTodoTemplate.imageset\/toggleTodoTemplate.png"
+      },
+      "uid": ".toggleTodo"
+    },
+    {
+      "subtitle": "⌃⌥D",
+      "icon": {
+        "path": "WindowPositions\/firstThirdTemplate.imageset\/firstThirdTemplate.png"
+      },
+      "title": "First Third",
+      "arg": "rectangle:\/\/execute-action?name=first-third",
+      "uid": ".firstThird"
+    }
+  ]
+}
